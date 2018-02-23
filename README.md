@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/jmreynolds/Git-For-Normal-Developers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Are you a developer who recently started using Git in VSTS? Maybe you've been using it for a while, but your team needs some help with branching and merging? Or maybe you just want to see some of the tools out there that make Git easier to use?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is the class for you! We're going to focus on what most of us do 75% of the time in Git, and how to use that to make your life easier.
 
 ### Markdown
 
