@@ -18,4 +18,10 @@ With a Bachelor in Psychology, a Master’s in IT, and graduate work in Technica
 In January of 2013, Joseph was honored to receive the Microsoft C# MVP award.
 
 ## Spring Houston Tech Fest
-I have submitted this talk for consideration at the upcoming Spring 2018 Houston Tech Fest. I hope to see you there!
+I presented this talk for the Spring 2018 Houston Tech Fest.
+
+## North Houston .Net User Group
+[Presented on May 17, 2018](https://www.nhdnug.org/meetings/2018/05/17/git-for-normal-developers)
+
+## Houston .Net User Group
+I will be presenting this on March 14, 2019 for Houston .Net User Group.
