@@ -24,4 +24,4 @@ I presented this talk for the Spring 2018 Houston Tech Fest.
 [Presented on May 17, 2018](https://www.nhdnug.org/meetings/2018/05/17/git-for-normal-developers)
 
 ## Houston .Net User Group
-I will be presenting this on March 14, 2019 for Houston .Net User Group.
+I will be presenting this on June 13, 2019 for Houston .Net User Group.
