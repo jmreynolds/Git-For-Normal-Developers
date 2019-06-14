@@ -1,1 +1,3 @@
-Sample text file
+Sample text File
+
+Some more text
